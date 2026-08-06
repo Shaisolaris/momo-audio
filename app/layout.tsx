@@ -12,7 +12,6 @@ export const metadata: Metadata = {
   title: "Momo X | Pure Sound",
   description:
     "Experience audio perfection with Momo X headphones. Titanium performance, precision engineering, and immersive sound.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
